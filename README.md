@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UzmaSuroor-us&label=Profile%20views&color=0e75b6&style=flat" alt="ummehani18" /> </p>
 
-I'm currently working on DevOps and Cloud.<br>I'm looking to collaborate on AI and Startups.<br>Ask me about: DevOps, Cloud & A/ML.<br> 
+I'm currently working on DevOps and Cloud.<br>I'm looking to collaborate on AI and Startups.<br>Ask me about: DevOps, Cloud & AI/ML.<br> 
 
 
 ## 🌐 Socials:
